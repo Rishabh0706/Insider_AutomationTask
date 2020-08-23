@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-05T16:56:16 IST" name="App Automation Suite" finished-at="2020-08-05T16:56:45 IST" duration-ms="29111">
+    <groups>
+    </groups>
+    <test started-at="2020-08-05T16:56:16 IST" name="Appium Test" finished-at="2020-08-05T16:56:45 IST" duration-ms="29111">
+      <class name="com.insider.qa.appTestCases.EventScreenTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.insider.qa.appTestCases.EventScreenTest@e4487af]" started-at="2020-08-05T16:56:16 IST" name="setup" finished-at="2020-08-05T16:56:26 IST" duration-ms="9930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC01()[pri:0, instance:com.insider.qa.appTestCases.EventScreenTest@e4487af]" started-at="2020-08-05T16:56:26 IST" name="TC01" finished-at="2020-08-05T16:56:45 IST" duration-ms="18685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="clean()[pri:0, instance:com.insider.qa.appTestCases.EventScreenTest@e4487af]" started-at="2020-08-05T16:56:45 IST" name="clean" finished-at="2020-08-05T16:56:45 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.insider.qa.appTestCases.EventScreenTest -->
+    </test> <!-- Appium Test -->
+  </suite> <!-- App Automation Suite -->
+  <suite started-at="2020-08-05T16:56:03 IST" name="Web Automation Suite" finished-at="2020-08-05T16:56:16 IST" duration-ms="12380">
+    <groups>
+    </groups>
+    <test started-at="2020-08-05T16:56:03 IST" name="Selenium Test" finished-at="2020-08-05T16:56:16 IST" duration-ms="12380">
+      <class name="com.insider.qa.webTestCases.EventPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.insider.qa.webTestCases.EventPageTest@1f2586d6]" started-at="2020-08-05T16:56:03 IST" name="setup" finished-at="2020-08-05T16:56:12 IST" duration-ms="9110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC01()[pri:0, instance:com.insider.qa.webTestCases.EventPageTest@1f2586d6]" started-at="2020-08-05T16:56:12 IST" name="TC01" finished-at="2020-08-05T16:56:15 IST" duration-ms="3002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="clean()[pri:0, instance:com.insider.qa.webTestCases.EventPageTest@1f2586d6]" started-at="2020-08-05T16:56:15 IST" name="clean" finished-at="2020-08-05T16:56:16 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.insider.qa.webTestCases.EventPageTest -->
+    </test> <!-- Selenium Test -->
+  </suite> <!-- Web Automation Suite -->
+</testng-results>

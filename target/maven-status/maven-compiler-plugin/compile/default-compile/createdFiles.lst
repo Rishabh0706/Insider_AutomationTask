@@ -1,0 +1,7 @@
+com/insider/qa/appPages/HomeScreen.class
+com/insider/qa/appPages/EventScreen.class
+com/insider/qa/webPages/HomePage.class
+com/insider/qa/base/AppTestBase.class
+com/insider/qa/appPages/IntroScreen.class
+com/insider/qa/webPages/EventPage.class
+com/insider/qa/base/WebTestBase.class
